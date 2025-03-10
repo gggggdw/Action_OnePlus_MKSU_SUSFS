@@ -1,4 +1,4 @@
-name: Build MKSU test
+name: Build MKSU test Oldest
 on:
   workflow_dispatch:
     inputs:
