@@ -1,4 +1,4 @@
-name: Build MKSU
+name: Build MKSU test1
 on:
   workflow_dispatch:
     inputs:
